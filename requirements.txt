@@ -1,0 +1,8 @@
+Python3.8
+Jupyter notebook
+
+Python Library:
+NumPy
+Pandas
+Matplotlib
+scikit-learn
